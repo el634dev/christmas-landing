@@ -6,7 +6,7 @@ This page was created for practice with responsive web design.
 
 ## Features 
 Light/Dark Mode
-Responive On All Devices
+Responsive On All Devices
 
 # Dev Dependencies
 HTML, CSS, SCSS and JavaScript
